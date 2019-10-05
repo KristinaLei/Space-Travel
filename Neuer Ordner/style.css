@@ -1,0 +1,62 @@
+body{
+background-color: #0A0808;
+color: white !important;
+font-family: 'Titillium Web', sans-serif;
+}
+
+h1 {
+color: #B2D3B8;
+font-family: 'Orbitron', sans-serif;
+font-size:100px;
+width: 100vw;
+height: 100vh;
+background-image: url("https://images.unsplash.com/photo-1565502233712-f0c4a3343877?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80");
+background-repeat; no-repeat;
+text-align: center;
+}
+
+h2 {
+color: #99C8CC;	
+font-family:'Orbitron', sans-serif;
+font-size: 70px;
+text-align: center;
+}
+
+h3 {
+color: #F9656D;	
+font-family:'Orbitron', sans-serif;
+font-size: 50px;
+text-align: center;
+}
+
+
+.people {
+padding: 15px;
+border-color: #99C8CC;
+}
+
+#banner {
+	color: white;
+	background-size: 30px;
+	background-size: cover;
+}
+
+.fab {
+	color: white !important;
+	size: 100px;
+}
+
+.button {
+	text-align: center;
+	background-size:300px;
+}
+
+
+
+
+
+i {
+	color: white;
+}
+
+
